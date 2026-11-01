@@ -1,0 +1,22 @@
+{
+  "wheel_id": 622,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-106",
+  "project": "waterproofing-adelaide-signs-you-need-d353b9a342be39238ae29a61c",
+  "parent_t1_ref": "prowaterproofingadelaide-152",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide signs you need",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-106/",
+  "tier": "T2",
+  "writeback_nonce": "1776b8c9e28f3a98",
+  "links": [
+    {
+      "target_url": "http://waterproofing-adelaide-how-to-choose-945543608dea73ecc62de60114.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this waterproofing adelaide how to choose resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
